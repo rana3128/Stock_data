@@ -3,4 +3,6 @@
 
  1. install pacakges `npm i` 
  2. install frontend packages `npm run client-install`
- 2. start project `npm run dev`
+ 3. start project `npm run dev`
+
+ enter key/code "123456" and login
