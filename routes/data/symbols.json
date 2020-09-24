@@ -1,0 +1,44 @@
+[
+    {
+      "Nasdaq Traded": "Y",
+      "Symbol": "A",
+      "Security Name": "Agilent Technologies, Inc. Common Stock",
+      "Listing Exchange": "N",
+      "Market Category": "",
+      "ETF": "N",
+      "Round Lot Size": 100,
+      "Test Issue": "N",
+      "Financial Status": "",
+      "CQS Symbol": "A",
+      "NASDAQ Symbol": "A",
+      "NextShares": "N"
+    },
+    {
+      "Nasdaq Traded": "Y",
+      "Symbol": "AA",
+      "Security Name": "Alcoa Corporation Common Stock",
+      "Listing Exchange": "N",
+      "Market Category": "",
+      "ETF": "N",
+      "Round Lot Size": 100,
+      "Test Issue": "N",
+      "Financial Status": "",
+      "CQS Symbol": "AA",
+      "NASDAQ Symbol": "AA",
+      "NextShares": "N"
+    },
+    {
+      "Nasdaq Traded": "Y",
+      "Symbol": "AACG",
+      "Security Name": "ATA Creativity Global - American Depositary Shares, each representing two common shares",
+      "Listing Exchange": "Q",
+      "Market Category": "G",
+      "ETF": "N",
+      "Round Lot Size": 100,
+      "Test Issue": "N",
+      "Financial Status": "N",
+      "CQS Symbol": "",
+      "NASDAQ Symbol": "AACG",
+      "NextShares": "N"
+    }
+  ]
